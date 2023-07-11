@@ -86,9 +86,8 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 
 **Acknowledgments**
 
-The PyPDF2 library: https://pythonhosted.org/PyPDF2/
-
-The Tkinter library: https://docs.python.org/3/library/tkinter.html
+ - The PyPDF2 library: https://pythonhosted.org/PyPDF2/
+ - The Tkinter library: https://docs.python.org/3/library/tkinter.html
 
 
 Feel free to customize and enhance the README file according to your specific project requirements and the additional information you want to include.
