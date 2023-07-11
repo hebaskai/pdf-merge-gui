@@ -37,7 +37,7 @@ Whether you need to merge files for job applications, scholarship submissions, o
 
 1. Clone the repository:
 
-    `git clone https://github.com/your-username/pdf-merge-gui.git`
+    `git clone https://github.com/hebaskai/pdf-merge-gui.git`
 
     Change into the project directory:
 
